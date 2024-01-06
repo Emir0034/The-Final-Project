@@ -1,0 +1,8 @@
+README.md
+setup.py
+homework4_pypi_final_project.egg-info/PKG-INFO
+homework4_pypi_final_project.egg-info/SOURCES.txt
+homework4_pypi_final_project.egg-info/dependency_links.txt
+homework4_pypi_final_project.egg-info/top_level.txt
+homework4_pypi_finalproject/__init__.py
+homework4_pypi_finalproject/main.py
